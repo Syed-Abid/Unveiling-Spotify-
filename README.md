@@ -21,14 +21,14 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵�
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/PRODIGY_DS_02.git
+    git clone https://github.com/Syed-Abid/PRODIGY_DS_02.git
     ```
 
 2. **Explore with Power BI:**
-    - Open `PowerBI/spotify_analysis_dashboard.pbix` in Power BI for an interactive experience.
+    - Open `spotify_analysis_dashboard.pbix` in Power BI for an interactive experience.
 
 3. **Analyze with SQL:**
-    - Dive into the SQL analysis by checking out `SQL/spotify_analysis.sql`.
+    - Dive into the SQL analysis by checking out `spotify_analysis.sql`.
 
 ## 🤝 Contributing
 
@@ -37,15 +37,11 @@ Contributions are encouraged! Whether you want to enhance the analysis or add ne
 - Open issues to discuss potential changes.
 - Submit pull requests to collaborate on improvements.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
 ## 📬 Contact
 
 Questions or suggestions? Reach out to me:
 
-- **Your Name**
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Syed Abid Hassan**
+- **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
 
 Feel the rhythm, uncover the patterns, and enjoy analyzing Spotify songs data! 🎧🕵️
