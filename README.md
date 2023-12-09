@@ -1,5 +1,8 @@
 # PRODIGY_DS_02 - Spotify Songs Analysis 🎵📊
 
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1024px-Spotify_App_Logo.svg.png" alt="Spotify Logo">
+</div>
 
 
 Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵📈 In this repository, I've conducted a comprehensive analysis on a Spotify songs dataset using SQL and Power BI. Uncover intriguing insights and visualizations that bring the data to life.
