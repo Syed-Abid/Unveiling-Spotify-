@@ -1,7 +1,7 @@
 # PRODIGY_DS_02 - Spotify Songs Analysis 🎵📊
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1024px-Spotify_App_Logo.svg.png" alt="Spotify Logo">
+  <img src="https://github.com/Syed-Abid/PRODIGY_DS_02/blob/main/Spotify%20Logo.png" alt="Spotify Logo">
 </div>
 
 
