@@ -15,7 +15,9 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵�
 
 ## 📊 Dashboard Preview
 
-*Insert screenshots or GIFs of your Power BI dashboards here.*
+<div align="center">
+  <img src="https://github.com/Syed-Abid/PRODIGY_DS_02/blob/main/Spotify%20Dashboard.png" alt="Spotify Dashboard">
+</div>
 
 ## 🛠️ Setup and Usage
 
