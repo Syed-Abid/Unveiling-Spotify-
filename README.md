@@ -27,10 +27,10 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵�
     ```
 
 2. **Explore with Power BI:**
-    - Open `spotify_analysis_dashboard.pbix` in Power BI for an interactive experience.
+    - Open `Spotify Dashboard.pbix` in Power BI for an interactive experience.
 
 3. **Analyze with SQL:**
-    - Dive into the SQL analysis by checking out `spotify_analysis.sql`.
+    - Dive into the SQL analysis by checking out `spotify_ana.sql`.
 
 ## 🤝 Contributing
 
