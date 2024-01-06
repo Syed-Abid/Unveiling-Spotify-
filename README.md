@@ -31,6 +31,10 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵�
   <img src="https://github.com/Syed-Abid/PRODIGY_DS_02/blob/main/Spotify%20Dashboard.png" alt="Spotify Dashboard">
 </div>
 
+## Presentation
+
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/Syed-Abid/Unveiling-Spotify-/blob/main/Spotify%20Analysis.pdf" width="100%" height="600px"></iframe>
+
 ## 🛠️ Setup and Usage
 
 1. **Clone the repository:**
