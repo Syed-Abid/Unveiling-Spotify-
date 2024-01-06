@@ -17,7 +17,7 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵�
 
 - [LinkedIn Post](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_hello-connections-i-have-completed-the-activity-7145818146375987200-GTVN?utm_source=share&utm_medium=member_desktop)
 
-## Tools Used
+## 🧰 Tools Used
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
@@ -31,12 +31,17 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵�
   <img src="https://github.com/Syed-Abid/PRODIGY_DS_02/blob/main/Spotify%20Dashboard.png" alt="Spotify Dashboard">
 </div>
 
+## 💡 Insights
+- hgf
+- htf
+- hgtf
+- hftg
+
 ## Presentation
 
 <object data="https://github.com/Syed-Abid/Unveiling-Spotify-/blob/main/Spotify%20Analysis.pdf" type="application/pdf" width="100%" height="600px">
   <p>You can <a href="https://github.com/Syed-Abid/Unveiling-Spotify-/blob/main/Spotify%20Analysis.pdf">click here to see the PDF file.</a></p>
 </object>
-
 
 ## 🛠️ Setup and Usage
 
