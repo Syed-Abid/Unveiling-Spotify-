@@ -1,4 +1,4 @@
-# PRODIGY_DS_02 - Spotify Songs Analysis 🎵📊
+# Unveiling Spotify 🎵📊
 
 <div align="center">
   <img src="https://github.com/Syed-Abid/PRODIGY_DS_02/blob/main/Spotify%20Logo.png" alt="Spotify Logo">
