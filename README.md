@@ -33,7 +33,7 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵�
 
 ## Presentation
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/Syed-Abid/Unveiling-Spotify-/blob/main/Spotify%20Analysis.pdf" width="100%" height="600px"></iframe>
+<embed src="https://github.com/Syed-Abid/Unveiling-Spotify-/blob/main/Spotify%20Analysis.pdf" width="100%" height="600px" type='application/pdf'>
 
 ## 🛠️ Setup and Usage
 
