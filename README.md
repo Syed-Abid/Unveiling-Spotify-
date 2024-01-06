@@ -13,6 +13,10 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵�
 - **Power BI Dashboard:** Engage with an interactive Power BI dashboard, presenting key metrics and trends in an aesthetically pleasing manner.
 - **Rich Dataset:** Access the complete dataset for your exploration and analysis.
 
+## LinkedIn Post
+
+- [LinkedIn Post](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_hello-connections-i-have-completed-the-activity-7145818146375987200-GTVN?utm_source=share&utm_medium=member_desktop)
+
 ## 📊 Dashboard Preview
 
 <div align="center">
