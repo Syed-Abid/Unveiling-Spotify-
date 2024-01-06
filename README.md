@@ -32,10 +32,10 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵�
 </div>
 
 ## 💡 Insights
-- hgf
-- htf
-- hgtf
-- hftg
+- The average danceability% of 2022 tracks is 66.97 ~ 67 which is a good average. By the way, danceability refers to the ability of a song to be used for dancing.
+- The most popular track of 2022 by plays is **Blinding Lights**.
+- The #1 artist of 2022 based on spotify playlists is **Pharell Williams**.
+- **Major Mode** is more popular on spotify in 2022.
 
 ## Presentation
 
