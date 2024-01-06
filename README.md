@@ -42,7 +42,7 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! ðŸŽµðŸ
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Syed-Abid/PRODIGY_DS_02.git
+    git clone https://github.com/Syed-Abid/Unveiling-Spotify-.git
     ```
 
 2. **Explore with Power BI:**
