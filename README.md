@@ -17,6 +17,14 @@ Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵�
 
 - [LinkedIn Post](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_hello-connections-i-have-completed-the-activity-7145818146375987200-GTVN?utm_source=share&utm_medium=member_desktop)
 
+## Tools Used
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/power%20bi.png" style="margin-right: 10px;" width="100" />
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/excel.png" width="100" />
+</div>
+
 ## 📊 Dashboard Preview
 
 <div align="center">
