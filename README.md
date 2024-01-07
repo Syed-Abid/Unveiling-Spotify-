@@ -5,7 +5,7 @@
 </div>
 
 
-Dive into the world of music with PRODIGY_DS_02's Spotify Songs Analysis! 🎵📈 In this repository, I've conducted a comprehensive analysis on a Spotify songs dataset using SQL and Power BI. Uncover intriguing insights and visualizations that bring the data to life.
+Dive into the world of music with Spotify Songs Analysis! 🎵📈 In this repository, I've conducted a comprehensive analysis on a Spotify songs dataset using SQL and Power BI. Uncover intriguing insights and visualizations that bring the data to life.
 
 ## 🚀 Key Features
 
